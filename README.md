@@ -1,8 +1,8 @@
 Nome: Renan Augusto Siqueira
-CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER 
-ESCOLA SUPERIOR POLITÉCNICA 
-ANÁLISE E Desenvolvimento de Sistemas 
-Projeto: Desenvolvimento Front-end 
+CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER
+ESCOLA SUPERIOR POLITÉCNICA
+ANÁLISE E Desenvolvimento de Sistemas
+Projeto: Desenvolvimento Front-end
 RU: 4373620
 Email: 4373620@alunouninter.com
 -------
