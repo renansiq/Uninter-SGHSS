@@ -22,7 +22,7 @@ vi.mock('sonner', () => ({
 
 // Mock do date-fns
 vi.mock('date-fns', () => ({
-  format: vi.fn((date, formatStr) => {
+  format: vi.fn((_, formatStr) => {
     if (formatStr === 'dd/MM/yyyy') return '01/01/1990'
     if (formatStr === "dd 'de' MMMM 'de' yyyy") return '01 de janeiro de 1990'
     return '01/01/1990'
